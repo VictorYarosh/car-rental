@@ -9,6 +9,7 @@ const NavBar = () => {
         <h2 className="hover:bg-blue-500 p-2 px-3 cursor-pointer rounded-full hover:text-white">Home</h2>
         <h2 className="hover:bg-blue-500 p-2 px-3 cursor-pointer rounded-full hover:text-white">History</h2>
         <h2 className="hover:bg-blue-500 p-2 px-3 cursor-pointer rounded-full hover:text-white">Contact Us</h2>
+        <h2 className="hover:bg-blue-500 p-2 px-3 cursor-pointer rounded-full hover:text-white">Contact Us</h2>
         <UserButton />
       </div>
     </div>
